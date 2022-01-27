@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				330,
+				405
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gray_asset_s left"
+		},
+		{
+			"offsets": [
+				60,
+				393
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gray_asset_s down"
+		},
+		{
+			"offsets": [
+				-15,
+				495
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gray_asset_s up"
+		},
+		{
+			"offsets": [
+				115,
+				415
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gray_asset_s right"
+		},
+		{
+			"offsets": [
+				141,
+				382
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "pre-stab",
+			"indices": [],
+			"name": "gray_asset_s pre-stab"
+		},
+		{
+			"offsets": [
+				173,
+				452
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "stab",
+			"indices": [],
+			"name": "gray_asset_s stab"
+		},
+		{
+			"offsets": [
+				0,
+				400
+			],
+			"loop": true,
+			"fps": 22,
+			"anim": "idle",
+			"indices": [],
+			"name": "gray_asset_s idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gray_asset_s",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gray",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		115,
+		115
+	],
+	"camera_position": [
+		0,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
